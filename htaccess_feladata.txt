@@ -1,0 +1,1 @@
+A htaccess: Minden kérést átküld az index.php-n. Index.php-ból el tudja irányítani
